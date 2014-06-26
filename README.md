@@ -7,6 +7,7 @@ Create art from math formulas.
 ### External libraries
 
 * Qt
+* Qxt
 * OpenCV
 * muparser
 
