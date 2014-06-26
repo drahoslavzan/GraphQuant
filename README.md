@@ -14,8 +14,8 @@ Create art from math formulas.
 
 ### Example
 
-~~~
-F(x,y) = sin(sin(x)+(3*y))*3*sin(x*y)
-~~~
-
-![example](examples/example.png)
+> ~~~
+> F(x,y) = sin(sin(x)+(3*y))*3*sin(x*y)
+> ~~~
+> 
+> ![example](examples/example.png)
