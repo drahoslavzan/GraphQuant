@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+
+<RCC version="1.0">
+
+	<qresource prefix="/images">
+		<file alias="icon">images/icon.png</file>
+		<file alias="save">images/save.png</file>
+	</qresource>
+
+</RCC>
