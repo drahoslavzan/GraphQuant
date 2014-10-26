@@ -1,7 +1,7 @@
 GraphQuant
 ==========
 
-Create art from math formulas.
+Create art with math formulas.
 
 
 ### External libraries
